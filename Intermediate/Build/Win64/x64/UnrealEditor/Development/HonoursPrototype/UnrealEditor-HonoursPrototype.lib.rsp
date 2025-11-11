@@ -1,0 +1,34 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-HonoursPrototype.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/2202245/Documents/Unreal Projects/HonoursPrototype/Intermediate/Build/Win64/x64/HonoursPrototypeEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/2202245/Documents/Unreal Projects/HonoursPrototype/Intermediate/Build/Win64/x64/UnrealEditor/Development/HonoursPrototype/Module.HonoursPrototype.cpp.obj"
+"C:/Users/2202245/Documents/Unreal Projects/HonoursPrototype/Intermediate/Build/Win64/x64/UnrealEditor/Development/HonoursPrototype/HonoursPrototype.cpp.obj"
+"C:/Users/2202245/Documents/Unreal Projects/HonoursPrototype/Intermediate/Build/Win64/x64/UnrealEditor/Development/HonoursPrototype/HonoursPrototypeCharacter.cpp.obj"
+"C:/Users/2202245/Documents/Unreal Projects/HonoursPrototype/Intermediate/Build/Win64/x64/UnrealEditor/Development/HonoursPrototype/HonoursPrototypeGameMode.cpp.obj"
+"C:/Users/2202245/Documents/Unreal Projects/HonoursPrototype/Intermediate/Build/Win64/x64/UnrealEditor/Development/HonoursPrototype/HonoursPrototypePlayerController.cpp.obj"
+"C:/Users/2202245/Documents/Unreal Projects/HonoursPrototype/Intermediate/Build/Win64/x64/UnrealEditor/Development/HonoursPrototype/StrategyGameMode.cpp.obj"
+"C:/Users/2202245/Documents/Unreal Projects/HonoursPrototype/Intermediate/Build/Win64/x64/UnrealEditor/Development/HonoursPrototype/StrategyPawn.cpp.obj"
+"C:/Users/2202245/Documents/Unreal Projects/HonoursPrototype/Intermediate/Build/Win64/x64/UnrealEditor/Development/HonoursPrototype/StrategyPlayerController.cpp.obj"
+"C:/Users/2202245/Documents/Unreal Projects/HonoursPrototype/Intermediate/Build/Win64/x64/UnrealEditor/Development/HonoursPrototype/StrategyUnit.cpp.obj"
+"C:/Users/2202245/Documents/Unreal Projects/HonoursPrototype/Intermediate/Build/Win64/x64/UnrealEditor/Development/HonoursPrototype/StrategyHUD.cpp.obj"
+"C:/Users/2202245/Documents/Unreal Projects/HonoursPrototype/Intermediate/Build/Win64/x64/UnrealEditor/Development/HonoursPrototype/StrategyUI.cpp.obj"
+"C:/Users/2202245/Documents/Unreal Projects/HonoursPrototype/Intermediate/Build/Win64/x64/UnrealEditor/Development/HonoursPrototype/TwinStickCharacter.cpp.obj"
+"C:/Users/2202245/Documents/Unreal Projects/HonoursPrototype/Intermediate/Build/Win64/x64/UnrealEditor/Development/HonoursPrototype/TwinStickGameMode.cpp.obj"
+"C:/Users/2202245/Documents/Unreal Projects/HonoursPrototype/Intermediate/Build/Win64/x64/UnrealEditor/Development/HonoursPrototype/TwinStickPlayerController.cpp.obj"
+"C:/Users/2202245/Documents/Unreal Projects/HonoursPrototype/Intermediate/Build/Win64/x64/UnrealEditor/Development/HonoursPrototype/TwinStickAIController.cpp.obj"
+"C:/Users/2202245/Documents/Unreal Projects/HonoursPrototype/Intermediate/Build/Win64/x64/UnrealEditor/Development/HonoursPrototype/TwinStickNPC.cpp.obj"
+"C:/Users/2202245/Documents/Unreal Projects/HonoursPrototype/Intermediate/Build/Win64/x64/UnrealEditor/Development/HonoursPrototype/TwinStickNPCDestruction.cpp.obj"
+"C:/Users/2202245/Documents/Unreal Projects/HonoursPrototype/Intermediate/Build/Win64/x64/UnrealEditor/Development/HonoursPrototype/TwinStickSpawner.cpp.obj"
+"C:/Users/2202245/Documents/Unreal Projects/HonoursPrototype/Intermediate/Build/Win64/x64/UnrealEditor/Development/HonoursPrototype/TwinStickStateTreeUtility.cpp.obj"
+"C:/Users/2202245/Documents/Unreal Projects/HonoursPrototype/Intermediate/Build/Win64/x64/UnrealEditor/Development/HonoursPrototype/TwinStickAoEAttack.cpp.obj"
+"C:/Users/2202245/Documents/Unreal Projects/HonoursPrototype/Intermediate/Build/Win64/x64/UnrealEditor/Development/HonoursPrototype/TwinStickPickup.cpp.obj"
+"C:/Users/2202245/Documents/Unreal Projects/HonoursPrototype/Intermediate/Build/Win64/x64/UnrealEditor/Development/HonoursPrototype/TwinStickProjectile.cpp.obj"
+"C:/Users/2202245/Documents/Unreal Projects/HonoursPrototype/Intermediate/Build/Win64/x64/UnrealEditor/Development/HonoursPrototype/TwinStickUI.cpp.obj"
+"C:/Users/2202245/Documents/Unreal Projects/HonoursPrototype/Intermediate/Build/Win64/x64/UnrealEditor/Development/HonoursPrototype/Default.rc2.res"
+/OUT:"C:/Users/2202245/Documents/Unreal Projects/HonoursPrototype/Intermediate/Build/Win64/x64/UnrealEditor/Development/HonoursPrototype/UnrealEditor-HonoursPrototype.lib"

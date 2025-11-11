@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\2202245\\Documents\\Unreal Projects\\HonoursPrototype\\Source\\HonoursPrototype\\HonoursPrototype.Build.cs",
+		"C:\\Users\\2202245\\Documents\\Unreal Projects\\HonoursPrototype\\Source\\HonoursPrototype.Target.cs",
+		"C:\\Users\\2202245\\Documents\\Unreal Projects\\HonoursPrototype\\Source\\HonoursPrototypeEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\HonoursPrototype.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HonoursPrototype.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\HonoursPrototypeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\HonoursPrototype">
+      <UniqueIdentifier>{0511DCC5-0552-3D9E-BD38-1B206A90607A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HonoursPrototype\HonoursPrototype.Build.cs">
+      <Filter>Source\HonoursPrototype</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\HonoursPrototype\HonoursPrototype.cpp">
+      <Filter>Source\HonoursPrototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HonoursPrototype\HonoursPrototype.h">
+      <Filter>Source\HonoursPrototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HonoursPrototype\HonoursPrototypeCharacter.cpp">
+      <Filter>Source\HonoursPrototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HonoursPrototype\HonoursPrototypeCharacter.h">
+      <Filter>Source\HonoursPrototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HonoursPrototype\HonoursPrototypeGameMode.cpp">
+      <Filter>Source\HonoursPrototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HonoursPrototype\HonoursPrototypeGameMode.h">
+      <Filter>Source\HonoursPrototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HonoursPrototype\HonoursPrototypePlayerController.cpp">
+      <Filter>Source\HonoursPrototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HonoursPrototype\HonoursPrototypePlayerController.h">
+      <Filter>Source\HonoursPrototype</Filter>
+    </ClInclude>
+    <Filter Include="Source\HonoursPrototype\Variant_Strategy">
+      <UniqueIdentifier>{E41F360A-18F6-3242-8AC3-477163E39DD3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\HonoursPrototype\Variant_Strategy\StrategyGameMode.cpp">
+      <Filter>Source\HonoursPrototype\Variant_Strategy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HonoursPrototype\Variant_Strategy\StrategyGameMode.h">
+      <Filter>Source\HonoursPrototype\Variant_Strategy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HonoursPrototype\Variant_Strategy\StrategyPawn.cpp">
+      <Filter>Source\HonoursPrototype\Variant_Strategy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HonoursPrototype\Variant_Strategy\StrategyPawn.h">
+      <Filter>Source\HonoursPrototype\Variant_Strategy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HonoursPrototype\Variant_Strategy\StrategyPlayerController.cpp">
+      <Filter>Source\HonoursPrototype\Variant_Strategy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HonoursPrototype\Variant_Strategy\StrategyPlayerController.h">
+      <Filter>Source\HonoursPrototype\Variant_Strategy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HonoursPrototype\Variant_Strategy\StrategyUnit.cpp">
+      <Filter>Source\HonoursPrototype\Variant_Strategy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HonoursPrototype\Variant_Strategy\StrategyUnit.h">
+      <Filter>Source\HonoursPrototype\Variant_Strategy</Filter>
+    </ClInclude>
+    <Filter Include="Source\HonoursPrototype\Variant_Strategy\UI">
+      <UniqueIdentifier>{D3BB3650-FD4A-3E22-AF22-2C5F91C5DA6D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\HonoursPrototype\Variant_Strategy\UI\StrategyHUD.cpp">
+      <Filter>Source\HonoursPrototype\Variant_Strategy\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HonoursPrototype\Variant_Strategy\UI\StrategyHUD.h">
+      <Filter>Source\HonoursPrototype\Variant_Strategy\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HonoursPrototype\Variant_Strategy\UI\StrategyUI.cpp">
+      <Filter>Source\HonoursPrototype\Variant_Strategy\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HonoursPrototype\Variant_Strategy\UI\StrategyUI.h">
+      <Filter>Source\HonoursPrototype\Variant_Strategy\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\HonoursPrototype\Variant_TwinStick">
+      <UniqueIdentifier>{97F71379-8AF8-3C25-B93F-1E65B6E29A1A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\HonoursPrototype\Variant_TwinStick\TwinStickCharacter.cpp">
+      <Filter>Source\HonoursPrototype\Variant_TwinStick</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HonoursPrototype\Variant_TwinStick\TwinStickCharacter.h">
+      <Filter>Source\HonoursPrototype\Variant_TwinStick</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HonoursPrototype\Variant_TwinStick\TwinStickGameMode.cpp">
+      <Filter>Source\HonoursPrototype\Variant_TwinStick</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HonoursPrototype\Variant_TwinStick\TwinStickGameMode.h">
+      <Filter>Source\HonoursPrototype\Variant_TwinStick</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HonoursPrototype\Variant_TwinStick\TwinStickPlayerController.cpp">
+      <Filter>Source\HonoursPrototype\Variant_TwinStick</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HonoursPrototype\Variant_TwinStick\TwinStickPlayerController.h">
+      <Filter>Source\HonoursPrototype\Variant_TwinStick</Filter>
+    </ClInclude>
+    <Filter Include="Source\HonoursPrototype\Variant_TwinStick\AI">
+      <UniqueIdentifier>{D181E182-BAFA-34C1-BBA3-8DBA953B5368}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\HonoursPrototype\Variant_TwinStick\AI\TwinStickAIController.cpp">
+      <Filter>Source\HonoursPrototype\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HonoursPrototype\Variant_TwinStick\AI\TwinStickAIController.h">
+      <Filter>Source\HonoursPrototype\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HonoursPrototype\Variant_TwinStick\AI\TwinStickNPC.cpp">
+      <Filter>Source\HonoursPrototype\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HonoursPrototype\Variant_TwinStick\AI\TwinStickNPC.h">
+      <Filter>Source\HonoursPrototype\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HonoursPrototype\Variant_TwinStick\AI\TwinStickNPCDestruction.cpp">
+      <Filter>Source\HonoursPrototype\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HonoursPrototype\Variant_TwinStick\AI\TwinStickNPCDestruction.h">
+      <Filter>Source\HonoursPrototype\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HonoursPrototype\Variant_TwinStick\AI\TwinStickSpawner.cpp">
+      <Filter>Source\HonoursPrototype\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HonoursPrototype\Variant_TwinStick\AI\TwinStickSpawner.h">
+      <Filter>Source\HonoursPrototype\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HonoursPrototype\Variant_TwinStick\AI\TwinStickStateTreeUtility.cpp">
+      <Filter>Source\HonoursPrototype\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HonoursPrototype\Variant_TwinStick\AI\TwinStickStateTreeUtility.h">
+      <Filter>Source\HonoursPrototype\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\HonoursPrototype\Variant_TwinStick\Gameplay">
+      <UniqueIdentifier>{2CB8DF68-1827-3EF4-980C-112A8032F652}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\HonoursPrototype\Variant_TwinStick\Gameplay\TwinStickAoEAttack.cpp">
+      <Filter>Source\HonoursPrototype\Variant_TwinStick\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HonoursPrototype\Variant_TwinStick\Gameplay\TwinStickAoEAttack.h">
+      <Filter>Source\HonoursPrototype\Variant_TwinStick\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HonoursPrototype\Variant_TwinStick\Gameplay\TwinStickPickup.cpp">
+      <Filter>Source\HonoursPrototype\Variant_TwinStick\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HonoursPrototype\Variant_TwinStick\Gameplay\TwinStickPickup.h">
+      <Filter>Source\HonoursPrototype\Variant_TwinStick\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HonoursPrototype\Variant_TwinStick\Gameplay\TwinStickProjectile.cpp">
+      <Filter>Source\HonoursPrototype\Variant_TwinStick\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HonoursPrototype\Variant_TwinStick\Gameplay\TwinStickProjectile.h">
+      <Filter>Source\HonoursPrototype\Variant_TwinStick\Gameplay</Filter>
+    </ClInclude>
+    <Filter Include="Source\HonoursPrototype\Variant_TwinStick\UI">
+      <UniqueIdentifier>{F47012A9-2D1C-33C2-A1C2-BE6652DD9FFD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\HonoursPrototype\Variant_TwinStick\UI\TwinStickUI.cpp">
+      <Filter>Source\HonoursPrototype\Variant_TwinStick\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HonoursPrototype\Variant_TwinStick\UI\TwinStickUI.h">
+      <Filter>Source\HonoursPrototype\Variant_TwinStick\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
