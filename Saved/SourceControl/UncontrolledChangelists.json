@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/2202245/Documents/GitHub/HonoursPrototype/Content/Enemy/BTTask_RandomPatrol.uasset",
+				"C:/Users/2202245/Documents/GitHub/HonoursPrototype/Content/Enemy/BB_Enemy.uasset",
+				"C:/Users/2202245/Documents/GitHub/HonoursPrototype/Content/Enemy/Enemy_Controller.uasset",
+				"C:/Users/2202245/Documents/GitHub/HonoursPrototype/Content/Enemy/BT_Enemy.uasset",
+				"C:/Users/2202245/Documents/GitHub/HonoursPrototype/Content/Enemy/Enemy_Character.uasset",
 				"C:/Users/2202245/OneDrive - Abertay University/Documents/GitHub/HonoursPrototype/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
 				"C:/Users/2202245/OneDrive - Abertay University/Documents/GitHub/HonoursPrototype/Content/Clues/BP_BloodClue.uasset",
 				"C:/Users/2202245/OneDrive - Abertay University/Documents/GitHub/HonoursPrototype/Content/__ExternalActors__/TopDown/Lvl_TopDown/E/P0/6BJ49D2QVGYTGKTJ12J1UB.uasset",
